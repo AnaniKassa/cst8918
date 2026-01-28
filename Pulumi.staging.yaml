@@ -1,0 +1,11 @@
+config:
+  my-first-app-v2:frontendPort: "3002"
+  my-first-app-v2:backendPort: "3000"
+  my-first-app-v2:mongoPort: "27017"
+  my-first-app-v2:mongoHost: mongo
+  my-first-app-v2:database: cart
+  my-first-app-v2:nodeEnvironment: development
+  my-first-app-v2:protocol: http://
+  my-first-app-v2:mongoUsername: admin
+  my-first-app-v2:mongoPassword:
+    secure: AAABAG4HkMrYBnx+zPZl1AqX9w/iNIBCtYuLJ4DTq0pD6s0wRvo=
